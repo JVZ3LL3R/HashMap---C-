@@ -1,2 +1,2 @@
-# HashMap---C-
+# HashMap-LinkedList in C++
 Implementação de Hash Map com lista ligada em C++ - Estrutura de Dados -- FATEC - MC --
