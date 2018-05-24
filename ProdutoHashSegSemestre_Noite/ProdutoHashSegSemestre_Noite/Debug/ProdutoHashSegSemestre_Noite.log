@@ -1,0 +1,5 @@
+﻿  Product.cpp
+f:\fatec\estrutura de dados\produtohashsegsemestre_noite\produtohashsegsemestre_noite\programa.h(93): warning C4018: '<': signed/unsigned mismatch
+f:\fatec\estrutura de dados\produtohashsegsemestre_noite\produtohashsegsemestre_noite\product.cpp(15): warning C4101: 'stProduct': unreferenced local variable
+  ProdutoHashSegSemestre_Noite.vcxproj -> F:\FATEC\Estrutura de Dados\ProdutoHashSegSemestre_Noite\Debug\ProdutoHashSegSemestre_Noite.exe
+  ProdutoHashSegSemestre_Noite.vcxproj -> F:\FATEC\Estrutura de Dados\ProdutoHashSegSemestre_Noite\Debug\ProdutoHashSegSemestre_Noite.pdb (Full PDB)
